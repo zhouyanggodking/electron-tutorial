@@ -1,0 +1,22 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "electron-tutorial",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouyanggodking/electron-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouyanggodking/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/zhouyanggodking/electron-tutorial#readme",
+  "dependencies": {
+    "electron": "^4.1.1"
+  }
+}
